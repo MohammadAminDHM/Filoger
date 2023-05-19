@@ -1,1 +1,3 @@
-https://learngitbranching.js.org/
+visualise repo site : https://learngitbranching.js.org/
+
+Install git bash site : git-scm.com/downloads 
