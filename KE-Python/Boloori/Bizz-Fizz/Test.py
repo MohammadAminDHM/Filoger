@@ -21,3 +21,4 @@ def fizz_buzz(n):
 
 # call the test function
 test_fizz_buzz()
+
