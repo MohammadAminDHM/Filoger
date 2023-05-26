@@ -1,8 +1,8 @@
 from datetime import datetime
 
+cache = {}
+
 def day_of_week(day, month, year):
-    
-    cache = {}
     # Check if the date is already calculated before, return from cache if found.
     if (day, month, year) in cache:
         return cache[(day, month, year)]
