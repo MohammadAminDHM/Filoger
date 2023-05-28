@@ -14,11 +14,8 @@ def fizz_buzz(n):
         elif i % 5 == 0:
             results.append("Buzz")
         # If the number is not divisible by either 3 or 5, append the number as a string
-        elif i % 17 == 0:
-            results.append("beparBala")
         else:
             results.append(str(i))
     
     # Return the results list
     return results
- 
