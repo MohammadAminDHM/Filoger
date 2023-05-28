@@ -12,7 +12,7 @@ def day_of_week(day, month, year):
         date = datetime(year, month, day)
     except ValueError:
         return 'تاریخ نامعتبر'
-    
+     
         
     # We map the weekday() integer to its day name using a dictionary
     days = {
