@@ -17,9 +17,6 @@ Create environment and install requierments in your system
 pip install -r requirenments.txt
 
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> b8a41e55b9f04a8a8ff55765ded2674244c50916
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
